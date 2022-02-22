@@ -1,4 +1,4 @@
-## I'm Kevin 😈, a Student, Developer, and Gamer!
+## I'm Kevin 😈 a Student, Developer, and Gamer!
 - 🐝 I’m attending the Georgia Institute of Technology!
 - 👯 I’m looking to meet new people!
 - 🎮 I love playing games (and making them too!)
