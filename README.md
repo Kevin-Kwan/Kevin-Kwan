@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 ### ⚡ Reach out to me at: [kkwan9@gatech.edu](mailto:kkwan9@gatech.edu)
 
-![Profile views](https://gpvc.arturio.dev/Kevin-Kwan)  <img src="https://img.shields.io/github/followers/Kevin-Kwan?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Kevin-Kwan)  <img src="https://img.shields.io/github/followers/Kevin-Kwan?label=Followers" style=" float:left, margin-right:10px" />
 
 <img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Kwan&count_private=true&show_icons=true&hide_border=false&cache_seconds=1800&theme=dark"/>
 <!--<img align="left" alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kwan&count_private=true&show_icons=true&layout=compact&cache_seconds=1800&theme=dark"/>-->
