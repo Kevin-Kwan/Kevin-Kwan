@@ -5,7 +5,7 @@
 ### 📝 Main Programming Languages:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 ### 🌱 I’m currently learning:
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 ### ⚡ Reach out to me at: [kkwan9@gatech.edu](mailto:kkwan9@gatech.edu)
 
 ![Profile views](https://gpvc.arturio.dev/Kevin-Kwan)  <img src="https://img.shields.io/github/followers/Kevin-Kwan?label=Follow" style=" float:left, margin-right:10px" />
