@@ -1,6 +1,7 @@
 ## I'm Kevin 😈 a Student, Developer, and Gamer!
 - 🐝 I’m attending GA Tech!
 - 💻 Majoring in Computer Science!
+- ✏️ Always trying to learn and improve!
 - 👯 I’m looking to meet new people!
 - 🎮 I love playing games (and making them too!)
 ### 📝 Main Programming Languages:
