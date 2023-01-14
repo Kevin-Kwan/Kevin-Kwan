@@ -1,4 +1,5 @@
 ## I'm Kevin 😈 a Student, Developer, and Gamer!
+[ ![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevinkwan3/)
 - 🐝 I’m attending GA Tech!
 - 💻 Majoring in Computer Science!
 - ✏️ Always trying to learn and improve!
