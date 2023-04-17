@@ -8,7 +8,7 @@
 - 💻 Majoring in Computer Science!
 - ✏️ Always trying to learn and improve!
 - 👯 I’m looking to meet new people!
-- 🎮 I love playing games (and making them too!)
+- 🎮 I love playing video games (and making them too!)
 ### 📝 Main Programming Languages:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 ### 🌱 I’m currently learning:
