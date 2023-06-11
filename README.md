@@ -16,8 +16,6 @@
 
 ### ⚡ Reach out to me at: [kevinkwan@gatech.edu](mailto:kevinkwan@gatech.edu)
 
-<img src="https://img.shields.io/github/followers/Kevin-Kwan?label=Followers" style=" float:left, margin-right:10px" />
-
 <img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kevin-Kwan&count_private=true&show_icons=true&hide_border=false&cache_seconds=1800&theme=dark"/>
 <!--<img align="left" alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kwan&count_private=true&show_icons=true&layout=compact&cache_seconds=1800&theme=dark"/>-->
 <!--<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">-->
