@@ -10,7 +10,7 @@
 - 👯 I’m looking to meet new people!
 - 🎮 I love playing video games (and making them too!)
 - 🤖 Main interests involve AI, Natural Language Processing, and Machine Learning
-### 📝 Main Programming Languages:
+### 📝 Main Programming Languages/Frameworks/Technologies:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
 ### 🌱 I’m currently learning:
 <img src ="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"> <img src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white"> 
