@@ -19,9 +19,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-	![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 ### 🌱 I’m currently learning:
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"> <img src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"> <img src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white"> 
 
 ### ⚡ Reach out to me at: [kevinkwan@gatech.edu](mailto:kevinkwan@gatech.edu)
 
