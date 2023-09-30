@@ -1,4 +1,4 @@
-## I'm Kevin 😈 a Student, Developer, and Gamer!
+## I'm Kevin, a Student, Developer, and Gamer!
 [ ![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevinkwan3/)
 [![](https://badges.peiyuan.ch/leetcode/KevinKwan/name?labelColor=black)](https://leetcode.com/KevinKwan)
 [![](https://badges.peiyuan.ch/leetcode/KevinKwan/solved)](https://leetcode.com/KevinKwan)
