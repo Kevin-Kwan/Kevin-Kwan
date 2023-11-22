@@ -12,6 +12,7 @@
 - 🤖 Main interests involve AI, Natural Language Processing, Machine Learning, Game Design/Development, and Full-Stack Development
 ### 📝 Main Programming Languages/Frameworks/Technologies:
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 <img src ="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> 
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
