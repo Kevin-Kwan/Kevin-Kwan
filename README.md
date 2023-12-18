@@ -14,9 +14,6 @@
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 ### 🌱 I’m currently learning:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"> <img src="https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white"> 
-
-### ⚡ Reach out to me at: [kevinkwan@gatech.edu](mailto:kevinkwan@gatech.edu)
-
 <img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kevin-Kwan&count_private=true&show_icons=true&hide_border=false&cache_seconds=1800&theme=dark"/>
 <!--<img align="left" alt="Kevin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kwan&count_private=true&show_icons=true&layout=compact&cache_seconds=1800&theme=dark"/>-->
 <!--<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">-->
