@@ -15,6 +15,6 @@
 [![](https://badges.peiyuan.ch/leetcode/KevinKwan/solved)](https://leetcode.com/KevinKwan)
 <br/>
 <br/>
-**Learn more about me and my projects:**
+**Learn more about me and my projects by visiting my portfolio:**
 <br/>
-**[My Software Engineering Portfolio Website: kevin-kwan.tech](https://kevin-kwan.tech)**
+**[kevin-kwan.tech](https://kevin-kwan.tech)**
