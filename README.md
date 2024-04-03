@@ -17,6 +17,6 @@
 <br/>
 **Learn more about me and my projects by visiting my portfolio:**
 <br/>
-**[kevin-kwan.tech](https://kevin-kwan.tech)**
+**[kevin-kwan.tech](https://kevin-kwan.tech) or [kevin-kwan.github.io](https://kevin-kwan.github.io)**
 <br/>
 <br/> I truly believe that anyone passionate enough can learn ANYTHING they want from the Internet for FREE, as long as they know where to look! :)
