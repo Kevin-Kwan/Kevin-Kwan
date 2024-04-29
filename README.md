@@ -14,7 +14,6 @@
 [![](https://badges.peiyuan.ch/leetcode/KevinKwan/name?labelColor=black)](https://leetcode.com/KevinKwan)
 [![](https://badges.peiyuan.ch/leetcode/KevinKwan/solved)](https://leetcode.com/KevinKwan)
 <br/>
-<br/>
 **Learn more about me and my projects by visiting my portfolio:**
 <br/>
 **[kevin-kwan.tech](https://kevin-kwan.tech)**
