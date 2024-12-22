@@ -16,4 +16,4 @@
 <br/>
 **Learn more about me and my projects by visiting my portfolio:**
 <br/>
-**[kevin-kwan.tech](https://kevin-kwan.tech)**
+**[kevinkwan.tech](https://kevinkwan.tech)**
